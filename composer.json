@@ -12,6 +12,6 @@
   },
   "require": {
     "drupal/commerce": "~2.8",
-    "drupal/commerce_product": "~2.8",
+    "drupal/commerce_product": "~2.8"
   }
 }
