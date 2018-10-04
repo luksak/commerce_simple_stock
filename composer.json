@@ -11,7 +11,7 @@
     "source": "https://github.com/wisamx/commerce_simple_stock"
   },
   "require": {
-    "drupal/commerce": "~2.8",
-    "drupal/commerce_product": "~2.8"
+    "drupal/commerce": "~2.0",
+    "drupal/commerce_product": "~2.0"
   }
 }
