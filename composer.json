@@ -1,0 +1,17 @@
+{
+  "name": "drupal/commerce_simple_stock",
+  "type": "drupal-module",
+  "description": "The module implements a simple stock management for Drupal Commerce.",
+  "keywords": ["Drupal", "Commerce", "Stock management"],
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://www.drupal.org/project/commerce_simple_stock",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/commerce_simple_stock",
+    "source": "https://github.com/wisamx/commerce_simple_stock"
+  },
+  "require": {
+    "drupal/commerce": "~2.8",
+    "drupal/commerce_product": "~2.8",
+  }
+}
